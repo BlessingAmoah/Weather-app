@@ -1,0 +1,18 @@
+
+.day-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+  }
+  
+  .cold {
+   color: blue;
+  }
+  
+  .hot {
+    color: red;
+  }
+  

@@ -1,0 +1,36 @@
+
+
+.forecast {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .day {
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: black;
+  }
+  
+  .day-info {
+    margin-top: 10px;
+  }
+  
+  .day-info div {
+    margin-bottom: 5px;
+  }
+  
+  .day-info .label {
+    font-weight: bold;
+  }
+  
+  .weather-icon {
+    width: 50px;
+    height: 50px;
+  }
+  
+ 
+  

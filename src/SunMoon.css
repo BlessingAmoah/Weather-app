@@ -1,0 +1,24 @@
+/* SunMoon.css */
+
+.sun-moon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .sun-moon-icon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sun-moon-icon img {
+    width: 20px;
+    height: 20px; 
+    margin-right: 5px;
+  }
+  
+  .sun-moon-icon span {
+    font-size: 14px;
+  }
+  
